@@ -1,2 +1,2 @@
 # Customer_Segmentation
-Customer are divided into different segments using k-means clustering. 
+A variety of unsupervised machine learning algorithms, such as K-Means, Hierarchical, and DBSCAN, were tested for cluster analysis to identify the most appropriate model. Exploratory Data Analysis (EDA) was conducted to gain insights from the data, followed by data preprocessing to transform skewed distribution into normal distribution. To reduce dimensionality and enhance efficiency, PCA (Principal Component Analysis) was applied. These steps collectively contributed to a comprehensive and streamlined approach in the project, enabling better understanding and interpretation of the data patterns. 
